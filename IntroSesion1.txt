@@ -1,0 +1,3 @@
+Se ha visto conceptos sobre controlador de versiones
+Las diferencias entre git y github
+Comandos basicos de terminal
